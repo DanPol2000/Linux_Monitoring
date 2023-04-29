@@ -17,6 +17,5 @@
 
 ![script](./images/simple_grafana.png)
 ![script](./images/under_progress.png)
-![script](./images/iperf3.png)
 ![script](./images/iperf3_2.png)
 ![script](./images/iperf3_3.png)
